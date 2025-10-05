@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data / outputs
+*.csv
+*.xlsx
+*.xls
+*.pickle
+*.pkl
+*.json
+*.zip
+*.parquet
+
+# RStudio (if ever used)
+.Rhistory
+.RData
+.Rproj.user/
